@@ -12,3 +12,4 @@ The **Install-ReferringPolicy.ps1** sets up the prerequisites for the Update-Ref
 
 Both scripts use the [functions library from Technet](http://technet.microsoft.com/en-us/library/ff720152(v=ws.10).aspx).
 
+![Policy](https://github.com/themimteam/ReferringPolicyObjects/blob/master/image2014-2-18%2020_11_0.png)
